@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="2800">
+
+    <!-- Grafiek 1 -->
+    <image href="top5_stijgers_co2_over_time.svg"
+           x="20" y="20"
+           width="550" height="600" />
+
+    <!-- Grafiek 2 -->
+    <image href="top5_stijgers_co2.svg"
+           x="20" y="620"
+           width="550" height="600" />
+
+    <!-- Grafiek 3 -->
+    <image href="top5_dalers_co2.svg"
+           x="20" y="1220"
+           width="550" height="600" />
+
+
+     <!-- Grafiek 4 -->
+    <image href="top5_co2_emissions.svg"
+           x="20" y="1820"
+           width="550" height="600" />
+
+     <!-- Grafiek 5 -->
+     <image href='co2-svgero-com.svg'
+            x="20" y="2420"
+            width="550" height="600" />
+
+
+    </svg>
